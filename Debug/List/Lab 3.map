@@ -1,20 +1,25 @@
 ###############################################################################
 #
-# IAR ELF Linker V8.30.1.114/W32 for ARM                  18/Jul/2018  23:01:45
+# IAR ELF Linker V8.30.1.114/W32 for ARM                  19/Jul/2018  00:57:24
 # Copyright 2007-2018 IAR Systems AB.
 #
-#    Output file  =  C:\Users\candy\474Group8 - Cube\Debug\Exe\Lab 3.out
-#    Map file     =  C:\Users\candy\474Group8 - Cube\Debug\List\Lab 3.map
+#    Output file  =  
+#        C:\Users\nikol\Documents\EE 474\github\474Lab3Cube\Debug\Exe\Lab 3.out
+#    Map file     =  
+#        C:\Users\nikol\Documents\EE 474\github\474Lab3Cube\Debug\List\Lab
+#        3.map
 #    Command line =  
-#        -f C:\Users\candy\AppData\Local\Temp\EW8371.tmp
-#        ("C:\Users\candy\474Group8 - Cube\Debug\Obj\cstartup_M.o"
-#        "C:\Users\candy\474Group8 - Cube\Debug\Obj\main.o"
-#        "C:\Users\candy\474Group8 - Cube\Debug\Obj\SSD2119.o"
-#        --no_out_extension -o "C:\Users\candy\474Group8 - Cube\Debug\Exe\Lab
+#        -f C:\Users\nikol\AppData\Local\Temp\EW2D7F.tmp
+#        ("C:\Users\nikol\Documents\EE
+#        474\github\474Lab3Cube\Debug\Obj\cstartup_M.o"
+#        "C:\Users\nikol\Documents\EE 474\github\474Lab3Cube\Debug\Obj\main.o"
+#        "C:\Users\nikol\Documents\EE
+#        474\github\474Lab3Cube\Debug\Obj\SSD2119.o" --no_out_extension -o
+#        "C:\Users\nikol\Documents\EE 474\github\474Lab3Cube\Debug\Exe\Lab
 #        3.out" --redirect _Printf=_PrintfFullNoMb --redirect
-#        _Scanf=_ScanfFullNoMb --map "C:\Users\candy\474Group8 -
-#        Cube\Debug\List\Lab 3.map" --config "C:\Program Files (x86)\IAR
-#        Systems\Embedded Workbench
+#        _Scanf=_ScanfFullNoMb --map "C:\Users\nikol\Documents\EE
+#        474\github\474Lab3Cube\Debug\List\Lab 3.map" --config "C:\Program
+#        Files (x86)\IAR Systems\Embedded Workbench
 #        8.1\arm\config\linker\TexasInstruments\TM4C123GH6.icf" --semihosting
 #        --entry __iar_program_start --vfe --text_out locale)
 #
@@ -143,7 +148,7 @@ command line/config:
     -------------------------------------------------
     Total:
 
-C:\Users\candy\474Group8 - Cube\Debug\Obj: [1]
+C:\Users\nikol\Documents\EE 474\github\474Lab3Cube\Debug\Obj: [1]
     SSD2119.o                 1 252       38        6
     cstartup_M.o                 34      188
     main.o                    1 712       92      104
@@ -284,7 +289,7 @@ sinl                         0x17f9    0x4  Code  Gb  cos_sin64.o [3]
 textColor               0x2000'006c    0x2  Data  Gb  SSD2119.o [1]
 
 
-[1] = C:\Users\candy\474Group8 - Cube\Debug\Obj
+[1] = C:\Users\nikol\Documents\EE 474\github\474Lab3Cube\Debug\Obj
 [2] = dl7M_tln.a
 [3] = m7M_tls.a
 [4] = rt7M_tl.a
